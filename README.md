@@ -1,2 +1,2 @@
 # POO
- 2do semestre
+ Bienvenido al repositorio de Adrian Mauricio Cáceres Valverde
