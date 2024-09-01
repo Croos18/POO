@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -80,7 +87,10 @@
       <updated>1724038800757</updated>
       <workItem from="1724038802017" duration="2154000" />
       <workItem from="1724041587945" duration="236000" />
-      <workItem from="1724628047309" duration="327000" />
+      <workItem from="1724628047309" duration="562000" />
+      <workItem from="1725213070963" duration="93000" />
+      <workItem from="1725213228012" duration="21000" />
+      <workItem from="1725213265673" duration="925000" />
     </task>
     <servers />
   </component>
@@ -103,6 +113,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Semana 9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/POO$main.coverage" NAME="main Coverage Results" MODIFIED="1724041594474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tareas/Inventario" />
+    <SUITE FILE_PATH="coverage/POO$main.coverage" NAME="main Coverage Results" MODIFIED="1725213874483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tareas/Inventario" />
   </component>
 </project>
